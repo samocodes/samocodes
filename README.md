@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samir</h1>
 <h3 align="center">A passionate fullstack typescript developer from India!</h3>
 
-- 🔭 I’m currently working on **Musique (Music Player)**
+- 🔭 I’m currently working on Learning 😸
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **frontends**
 
