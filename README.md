@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Samir 👋</h1>
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&duration=3000&pause=500&color=007ACC&width=500&lines=A+passionate+fullstack+typescript+developer+from+India!" alt="Samir Cute UwU" /></a>
+<span>Hello, I am a Full Stack TypeScript Developer from India. My experience in modern web technologies enables me to build robust, scalable, and high-performance applications. I have worked extensively with Angular, React, Node.js, and MongoDB, and am committed to delivering exceptional results through attention to detail and collaboration. Check out my GitHub profile to see some of my recent projects and contributions.</span>
 
 ## Skills and Technologies
 
@@ -39,15 +39,9 @@
 
 ## My Github Stats
 
-<table><tr><td valign="center" width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=samocodes&show_icons=true&count_private=true&hide_border=true&theme=synthwave"  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=samocodes&show_icons=true&count_private=true&hide_border=true&theme=synthwave" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samocodes&hide_border=true&layout=compact&theme=synthwave" align="left" style="width: 100%" />
-
-</td></tr></table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samocodes&hide_border=true&layout=compact&theme=synthwave"   />
 
 ## Connect with me
 
@@ -66,14 +60,7 @@
 </a>  
 </div>  
   
-  
-## I'm listening to
 
-<div align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31rg6gv776fdqlw76ix6oo44lmdy&redirect=true" target="_blank">
-<img src=https://spotify-github-profile.vercel.app/api/view?uid=31rg6gv776fdqlw76ix6oo44lmdy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false alt="Spotify Player" style="" />
-</a>  
-</div>
 
 ## Quote
 
