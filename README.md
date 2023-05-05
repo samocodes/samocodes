@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Samir 👋</h1>
-<span>Hello, I am a Full Stack TypeScript Developer from India. My experience in modern web technologies enables me to build robust, scalable, and high-performance applications. I have worked extensively with Angular, React, Node.js, and MongoDB, and am committed to delivering exceptional results through attention to detail and collaboration. Check out my GitHub profile to see some of my recent projects and contributions.</span>
+<span>Hello, I am a Full Stack TypeScript Developer from India. My experience in modern web technologies enables me to build robust, scalable, and high-performance applications. I have worked extensively with React, Node.js, Next.js and MongoDB, and am committed to delivering exceptional results through attention to detail and collaboration. Check out my GitHub profile to see some of my recent projects and contributions.</span>
 
 ## Skills and Technologies
 
