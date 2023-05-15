@@ -35,6 +35,78 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 39.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 52 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+🌆 Daytime                53 commits          █████████░░░░░░░░░░░░░░░░   36.05 % 
+🌃 Evening                79 commits          █████████████░░░░░░░░░░░░   53.74 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   27 commits          █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Tuesday                  16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Wednesday                43 commits          ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+Thursday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Friday                   31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Saturday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Sunday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               13 repos            ███████████████░░░░░░░░░░   59.09 % 
+JavaScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/samocodes/samocodes/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/05/2023 18:34:12 UTC
 <!--END_SECTION:waka-->
 
 ## My Github Stats
