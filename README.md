@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 **🐱 My GitHub Data** 
 
@@ -106,7 +106,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samocodes/samocodes/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2023 18:34:28 UTC
+ Last Updated on 19/05/2023 18:34:18 UTC
 <!--END_SECTION:waka-->
 
 ## My Github Stats
